@@ -1,1 +1,2 @@
-Drop Table test_table;
+Drop Table users;
+Drop Table entries;
